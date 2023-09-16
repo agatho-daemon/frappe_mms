@@ -4,4 +4,4 @@ A Frapperized Maintenance Management System
 
 #### License
 
-CC0
+CC0 1.0 Universal
