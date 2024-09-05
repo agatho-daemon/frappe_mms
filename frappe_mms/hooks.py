@@ -10,6 +10,9 @@ app_license = "CC0"
 # Includes in <head>
 # ------------------
 
+# Required apps
+required_apps = ["erpnext"]
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/frappe_mms/css/frappe_mms.css"
 # app_include_js = "/assets/frappe_mms/js/frappe_mms.js"
